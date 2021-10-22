@@ -143,15 +143,29 @@
       >
         <ul class="navbar-nav">
           <li class="nav-item">
-            <router-link class="nav-link active" to="/">Home</router-link>
+            <router-link class="nav-link" tag="a" active-class="active" to="/"
+              >Home</router-link
+            >
           </li>
 
           <li class="nav-item">
-            <router-link class="nav-link" to="/projects">Projects</router-link>
+            <router-link
+              class="nav-link"
+              tag="a"
+              active-class="active"
+              to="/projects"
+              >Projects</router-link
+            >
           </li>
 
           <li class="nav-item">
-            <router-link class="nav-link" to="/contact">Contact Us</router-link>
+            <router-link
+              class="nav-link"
+              tag="a"
+              active-class="active"
+              to="/contact"
+              >Contact Us</router-link
+            >
           </li>
 
           <li class="nav-item">
