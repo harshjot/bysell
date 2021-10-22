@@ -169,7 +169,13 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="enroll-form.html">Enrollment Form</a>
+            <router-link
+              class="nav-link"
+              tag="a"
+              active-class="active"
+              to="/enroll"
+              >Enrollment Form</router-link
+            >
           </li>
         </ul>
       </div>
