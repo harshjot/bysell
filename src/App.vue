@@ -167,27 +167,17 @@
               >Contact Us</router-link
             >
           </li>
-
-          <li class="nav-item">
-            <router-link
-              class="nav-link"
-              tag="a"
-              active-class="active"
-              to="/enroll"
-              >Enrollment Form</router-link
-            >
-          </li>
         </ul>
       </div>
 
-      <button
+      <!-- <button
         type="button"
         class="btn btn-b-n navbar-toggle-box navbar-toggle-box-collapse"
         data-bs-toggle="collapse"
         data-bs-target="#navbarTogglerDemo01"
       >
         <i class="bi bi-search"></i>
-      </button>
+      </button> -->
     </div>
   </nav>
   <!-- End Header/Navbar -->
@@ -197,7 +187,7 @@
   <!-- ======= Footer ======= -->
   <section class="section-footer">
     <div class="container">
-      <div class="row">
+      <div class="row d-flex justify-content-center">
         <div class="col-sm-12 col-md-4">
           <div class="widget-a">
             <div class="w-header-a">
@@ -207,81 +197,25 @@
             </div>
             <div class="w-body-a">
               <p class="w-text-a color-text-a">
-                Enim minim veniam quis nostrud exercitation ullamco laboris nisi
-                ut aliquip exea commodo consequat duis sed aute irure.
+                1309 Mountain Ave, <br />
+                Winnipeg, <br />MB R2X 2Y1
               </p>
             </div>
             <div class="w-footer-a">
               <ul class="list-unstyled">
                 <li class="color-a">
-                  <span class="color-text-a">Phone .</span> contact@example.com
+                  <span class="color-text-a"
+                    >Phone -
+                    <a href="tel:+1 (204)-306-1144">+1 (204)-306-1144</a>
+                  </span>
                 </li>
                 <li class="color-a">
-                  <span class="color-text-a">Email .</span> +54 356 945234
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-12 col-md-4 section-md-t3">
-          <div class="widget-a">
-            <div class="w-header-a">
-              <h3 class="w-title-a text-brand">The Company</h3>
-            </div>
-            <div class="w-body-a">
-              <div class="w-body-a">
-                <ul class="list-unstyled">
-                  <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Site Map</a>
-                  </li>
-                  <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Legal</a>
-                  </li>
-                  <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i>
-                    <a href="#">Agent Admin</a>
-                  </li>
-                  <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Careers</a>
-                  </li>
-                  <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i>
-                    <a href="#">Affiliate</a>
-                  </li>
-                  <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i>
-                    <a href="#">Privacy Policy</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-12 col-md-4 section-md-t3">
-          <div class="widget-a">
-            <div class="w-header-a">
-              <h3 class="w-title-a text-brand">International sites</h3>
-            </div>
-            <div class="w-body-a">
-              <ul class="list-unstyled">
-                <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i> <a href="#">Venezuela</a>
-                </li>
-                <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i> <a href="#">China</a>
-                </li>
-                <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i> <a href="#">Hong Kong</a>
-                </li>
-                <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i> <a href="#">Argentina</a>
-                </li>
-                <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i> <a href="#">Singapore</a>
-                </li>
-                <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i>
-                  <a href="#">Philippines</a>
+                  <span class="color-text-a"
+                    >Email -
+                    <a href="mailto:bysellreception@gmail.com"
+                      >bysellreception@gmail.com</a
+                    >
+                  </span>
                 </li>
               </ul>
             </div>
@@ -297,15 +231,15 @@
           <nav class="nav-footer">
             <ul class="list-inline">
               <li class="list-inline-item">
-                <a href="#">Home</a>
+                <router-link to="/">Home</router-link>
               </li>
 
               <li class="list-inline-item">
-                <a href="#">Projects</a>
+                <router-link to="/projects">Projects</router-link>
               </li>
 
               <li class="list-inline-item">
-                <a href="#">Contact</a>
+                <router-link to="/contact">Contact</router-link>
               </li>
             </ul>
           </nav>

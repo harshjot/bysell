@@ -34,7 +34,7 @@
     <section class="property-grid grid">
       <div class="container">
         <div class="row">
-          <div class="col-sm-12">
+          <!-- <div class="col-sm-12">
             <div class="grid-option">
               <form>
                 <select class="custom-select">
@@ -45,12 +45,12 @@
                 </select>
               </form>
             </div>
-          </div>
+          </div> -->
           <div class="col-md-4">
             <div class="card-box-a card-shadow">
               <div class="img-box-a">
                 <img
-                  src="assets/img/property-1.jpg"
+                  src="assets/img/project1.png"
                   alt=""
                   class="img-a img-fluid"
                 />
@@ -60,12 +60,13 @@
                   <div class="card-header-a">
                     <h2 class="card-title-a">
                       <a href="#"
-                        >204 Mount <br />
-                        Olive Road Two</a
+                        >1995 Bannatyne Avenue <br />
+                        Winnipeg, <br />
+                        MB R2R 0B7</a
                       >
                     </h2>
                   </div>
-                  <div class="card-body-a">
+                  <!-- <div class="card-body-a">
                     <div class="price-box d-flex">
                       <span class="price-a">rent | $ 12.000</span>
                     </div>
@@ -73,8 +74,8 @@
                       >Click here to view
                       <span class="bi bi-chevron-right"></span>
                     </a>
-                  </div>
-                  <div class="card-footer-a">
+                  </div> -->
+                  <!-- <div class="card-footer-a">
                     <ul class="card-info d-flex justify-content-around">
                       <li>
                         <h4 class="card-info-title">Area</h4>
@@ -96,7 +97,7 @@
                         <span>1</span>
                       </li>
                     </ul>
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>
@@ -105,7 +106,7 @@
             <div class="card-box-a card-shadow">
               <div class="img-box-a">
                 <img
-                  src="assets/img/property-3.jpg"
+                  src="assets/img/project2.png"
                   alt=""
                   class="img-a img-fluid"
                 />
@@ -114,13 +115,10 @@
                 <div class="card-overlay-a-content">
                   <div class="card-header-a">
                     <h2 class="card-title-a">
-                      <a href="#"
-                        >204 Mount <br />
-                        Olive Road Two</a
-                      >
+                      <a href="#">64 Canberra Road <br />R2J 1W4</a>
                     </h2>
                   </div>
-                  <div class="card-body-a">
+                  <!-- <div class="card-body-a">
                     <div class="price-box d-flex">
                       <span class="price-a">rent | $ 12.000</span>
                     </div>
@@ -128,8 +126,8 @@
                       >Click here to view
                       <span class="bi bi-chevron-right"></span>
                     </a>
-                  </div>
-                  <div class="card-footer-a">
+                  </div> -->
+                  <!-- <div class="card-footer-a">
                     <ul class="card-info d-flex justify-content-around">
                       <li>
                         <h4 class="card-info-title">Area</h4>
@@ -151,7 +149,7 @@
                         <span>1</span>
                       </li>
                     </ul>
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>
@@ -160,7 +158,7 @@
             <div class="card-box-a card-shadow">
               <div class="img-box-a">
                 <img
-                  src="assets/img/property-6.jpg"
+                  src="assets/img/project3.png"
                   alt=""
                   class="img-a img-fluid"
                 />
@@ -170,12 +168,12 @@
                   <div class="card-header-a">
                     <h2 class="card-title-a">
                       <a href="#"
-                        >204 Mount <br />
-                        Olive Road Two</a
+                        >1537 Pacific Avenue, <br />Winnipeg, <br />MB R3E
+                        1H3</a
                       >
                     </h2>
                   </div>
-                  <div class="card-body-a">
+                  <!-- <div class="card-body-a">
                     <div class="price-box d-flex">
                       <span class="price-a">rent | $ 12.000</span>
                     </div>
@@ -183,8 +181,8 @@
                       >Click here to view
                       <span class="bi bi-chevron-right"></span>
                     </a>
-                  </div>
-                  <div class="card-footer-a">
+                  </div> -->
+                  <!-- <div class="card-footer-a">
                     <ul class="card-info d-flex justify-content-around">
                       <li>
                         <h4 class="card-info-title">Area</h4>
@@ -206,7 +204,7 @@
                         <span>1</span>
                       </li>
                     </ul>
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>
@@ -215,7 +213,7 @@
             <div class="card-box-a card-shadow">
               <div class="img-box-a">
                 <img
-                  src="assets/img/property-7.jpg"
+                  src="assets/img/project4.png"
                   alt=""
                   class="img-a img-fluid"
                 />
@@ -225,12 +223,11 @@
                   <div class="card-header-a">
                     <h2 class="card-title-a">
                       <a href="#"
-                        >204 Mount <br />
-                        Olive Road Two</a
+                        >995 Inkster Blvd, <br />Winnipeg, <br />MB R2X 1N7</a
                       >
                     </h2>
                   </div>
-                  <div class="card-body-a">
+                  <!-- <div class="card-body-a">
                     <div class="price-box d-flex">
                       <span class="price-a">rent | $ 12.000</span>
                     </div>
@@ -238,8 +235,8 @@
                       >Click here to view
                       <span class="bi bi-chevron-right"></span>
                     </a>
-                  </div>
-                  <div class="card-footer-a">
+                  </div> -->
+                  <!-- <div class="card-footer-a">
                     <ul class="card-info d-flex justify-content-around">
                       <li>
                         <h4 class="card-info-title">Area</h4>
@@ -261,7 +258,7 @@
                         <span>1</span>
                       </li>
                     </ul>
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>
@@ -270,7 +267,7 @@
             <div class="card-box-a card-shadow">
               <div class="img-box-a">
                 <img
-                  src="assets/img/property-8.jpg"
+                  src="assets/img/project5.png"
                   alt=""
                   class="img-a img-fluid"
                 />
@@ -279,13 +276,10 @@
                 <div class="card-overlay-a-content">
                   <div class="card-header-a">
                     <h2 class="card-title-a">
-                      <a href="#"
-                        >204 Mount <br />
-                        Olive Road Two</a
-                      >
+                      <a href="#">131 Keewatin, Winnipeg, <br />MB</a>
                     </h2>
                   </div>
-                  <div class="card-body-a">
+                  <!-- <div class="card-body-a">
                     <div class="price-box d-flex">
                       <span class="price-a">rent | $ 12.000</span>
                     </div>
@@ -293,8 +287,8 @@
                       >Click here to view
                       <span class="bi bi-chevron-right"></span>
                     </a>
-                  </div>
-                  <div class="card-footer-a">
+                  </div> -->
+                  <!-- <div class="card-footer-a">
                     <ul class="card-info d-flex justify-content-around">
                       <li>
                         <h4 class="card-info-title">Area</h4>
@@ -316,7 +310,7 @@
                         <span>1</span>
                       </li>
                     </ul>
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>
@@ -325,7 +319,7 @@
             <div class="card-box-a card-shadow">
               <div class="img-box-a">
                 <img
-                  src="assets/img/property-10.jpg"
+                  src="assets/img/project8.png"
                   alt=""
                   class="img-a img-fluid"
                 />
@@ -334,13 +328,10 @@
                 <div class="card-overlay-a-content">
                   <div class="card-header-a">
                     <h2 class="card-title-a">
-                      <a href="#"
-                        >204 Mount <br />
-                        Olive Road Two</a
-                      >
+                      <a href="#">56 Keewatin, Winnipeg, <br />MB R3E 3C4</a>
                     </h2>
                   </div>
-                  <div class="card-body-a">
+                  <!-- <div class="card-body-a">
                     <div class="price-box d-flex">
                       <span class="price-a">rent | $ 12.000</span>
                     </div>
@@ -348,8 +339,8 @@
                       >Click here to view
                       <span class="bi bi-chevron-right"></span>
                     </a>
-                  </div>
-                  <div class="card-footer-a">
+                  </div> -->
+                  <!-- <div class="card-footer-a">
                     <ul class="card-info d-flex justify-content-around">
                       <li>
                         <h4 class="card-info-title">Area</h4>
@@ -371,12 +362,174 @@
                         <span>1</span>
                       </li>
                     </ul>
+                  </div> -->
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card-box-a card-shadow">
+              <div class="img-box-a">
+                <img
+                  src="assets/img/project9.png"
+                  alt=""
+                  class="img-a img-fluid"
+                />
+              </div>
+              <div class="card-overlay">
+                <div class="card-overlay-a-content">
+                  <div class="card-header-a">
+                    <h2 class="card-title-a">
+                      <a href="#">306 Woodbine Avenue, Winnipeg, <br />MB</a>
+                    </h2>
                   </div>
+                  <!-- <div class="card-body-a">
+                    <div class="price-box d-flex">
+                      <span class="price-a">rent | $ 12.000</span>
+                    </div>
+                    <a href="property-single.html" class="link-a"
+                      >Click here to view
+                      <span class="bi bi-chevron-right"></span>
+                    </a>
+                  </div> -->
+                  <!-- <div class="card-footer-a">
+                    <ul class="card-info d-flex justify-content-around">
+                      <li>
+                        <h4 class="card-info-title">Area</h4>
+                        <span
+                          >340m
+                          <sup>2</sup>
+                        </span>
+                      </li>
+                      <li>
+                        <h4 class="card-info-title">Beds</h4>
+                        <span>2</span>
+                      </li>
+                      <li>
+                        <h4 class="card-info-title">Baths</h4>
+                        <span>4</span>
+                      </li>
+                      <li>
+                        <h4 class="card-info-title">Garages</h4>
+                        <span>1</span>
+                      </li>
+                    </ul>
+                  </div> -->
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card-box-a card-shadow">
+              <div class="img-box-a">
+                <img
+                  src="assets/img/project6.png"
+                  alt=""
+                  class="img-a img-fluid"
+                />
+              </div>
+              <div class="card-overlay">
+                <div class="card-overlay-a-content">
+                  <div class="card-header-a">
+                    <h2 class="card-title-a">
+                      <a href="#"
+                        >509 Victor Street, <br />winnipeg, <br />MB R3G 1R1</a
+                      >
+                    </h2>
+                  </div>
+                  <!-- <div class="card-body-a">
+                    <div class="price-box d-flex">
+                      <span class="price-a">rent | $ 12.000</span>
+                    </div>
+                    <a href="property-single.html" class="link-a"
+                      >Click here to view
+                      <span class="bi bi-chevron-right"></span>
+                    </a>
+                  </div> -->
+                  <!-- <div class="card-footer-a">
+                    <ul class="card-info d-flex justify-content-around">
+                      <li>
+                        <h4 class="card-info-title">Area</h4>
+                        <span
+                          >340m
+                          <sup>2</sup>
+                        </span>
+                      </li>
+                      <li>
+                        <h4 class="card-info-title">Beds</h4>
+                        <span>2</span>
+                      </li>
+                      <li>
+                        <h4 class="card-info-title">Baths</h4>
+                        <span>4</span>
+                      </li>
+                      <li>
+                        <h4 class="card-info-title">Garages</h4>
+                        <span>1</span>
+                      </li>
+                    </ul>
+                  </div> -->
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card-box-a card-shadow">
+              <div class="img-box-a">
+                <img
+                  src="assets/img/project7.png"
+                  alt=""
+                  class="img-a img-fluid"
+                />
+              </div>
+              <div class="card-overlay">
+                <div class="card-overlay-a-content">
+                  <div class="card-header-a">
+                    <h2 class="card-title-a">
+                      <a href="#"
+                        >131 Keewatin,<br />
+                        Winnipeg, <br />MB</a
+                      >
+                    </h2>
+                  </div>
+                  <!-- <div class="card-body-a">
+                    <div class="price-box d-flex">
+                      <span class="price-a">rent | $ 12.000</span>
+                    </div>
+                    <a href="property-single.html" class="link-a"
+                      >Click here to view
+                      <span class="bi bi-chevron-right"></span>
+                    </a>
+                  </div> -->
+                  <!-- <div class="card-footer-a">
+                    <ul class="card-info d-flex justify-content-around">
+                      <li>
+                        <h4 class="card-info-title">Area</h4>
+                        <span
+                          >340m
+                          <sup>2</sup>
+                        </span>
+                      </li>
+                      <li>
+                        <h4 class="card-info-title">Beds</h4>
+                        <span>2</span>
+                      </li>
+                      <li>
+                        <h4 class="card-info-title">Baths</h4>
+                        <span>4</span>
+                      </li>
+                      <li>
+                        <h4 class="card-info-title">Garages</h4>
+                        <span>1</span>
+                      </li>
+                    </ul>
+                  </div> -->
                 </div>
               </div>
             </div>
           </div>
         </div>
+
         <div class="row">
           <div class="col-sm-12">
             <nav class="pagination-a">

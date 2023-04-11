@@ -7,13 +7,13 @@
           <div class="col-md-12 col-lg-8">
             <div class="title-single-box">
               <h1 class="title-single">Contact US</h1>
-              <span class="color-text-a"
+              <!-- <span class="color-text-a"
                 >Aut voluptas consequatur unde sed omnis ex placeat quis eos.
                 Aut natus officia corrupti qui autem fugit consectetur quo. Et
                 ipsum eveniet laboriosam voluptas beatae possimus qui ducimus.
                 Et voluptatem deleniti. Voluptatum voluptatibus amet. Et esse
                 sed omnis inventore hic culpa.</span
-              >
+              > -->
             </div>
           </div>
           <div class="col-md-12 col-lg-4">
@@ -44,7 +44,7 @@
             <div class="contact-map box">
               <div id="map" class="contact-map">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1422937950147!2d-73.98731968482413!3d40.75889497932681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses-419!2sve!4v1510329142834"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2568.112179117079!2d-97.17505578445123!3d49.93423633230633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52ea73c9f302f30f%3A0xe3698af52c100127!2sBysell%20real%20estate!5e0!3m2!1sen!2sin!4v1647717096958!5m2!1sen!2sin"
                   width="100%"
                   height="450"
                   frameborder="0"
@@ -137,12 +137,18 @@
                     </div>
                     <div class="icon-box-content">
                       <p class="mb-1">
-                        Email.
-                        <span class="color-a">contact@example.com</span>
+                        Email:
+                        <span class="color-a"
+                          ><a href="mailto:bysellreception@gmail.com"
+                            >bysellreception@gmail.com</a
+                          ></span
+                        >
                       </p>
                       <p class="mb-1">
-                        Phone.
-                        <span class="color-a">+54 356 945234</span>
+                        Phone:
+                        <span class="color-text-a">
+                          <a href="tel:+1 (204)-306-1144">+1 (204)-306-1144</a>
+                        </span>
                       </p>
                     </div>
                   </div>
@@ -157,9 +163,8 @@
                     </div>
                     <div class="icon-box-content">
                       <p class="mb-1">
-                        Manhattan, Nueva York 10036,
-                        <br />
-                        EE. UU.
+                        1309 Mountain Ave, <br />
+                        Winnipeg, <br />MB R2X 2Y1
                       </p>
                     </div>
                   </div>
